@@ -11,3 +11,7 @@ cargo watch -q -c -w tests/ -x "test -q test_hello -- --nocapture"
 ```sh
 cargo watch -q -c -w src/ -x run
 ```
+
+### Lien du tuto avec le timestamp
+
+https://youtu.be/XZtlD_m59sM?t=381
